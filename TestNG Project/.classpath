@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/webdrive/webdriver_lib/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/webdrive/webdriver_lib/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/webdrive/webdriver_lib/libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/webdrive/webdriver_lib/libs/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/webdrive/webdriver_lib/libs/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/webdrive/webdriver_lib/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/webdrive/webdriver_lib/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="C:/webdrive/webdriver_lib/jxl-2.6.9.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium-WebDriver/Nareshit_Lectures/selenium project/report jar file/extentreports-2.40.2.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium-WebDriver/Nareshit_Lectures/selenium project/report jar file/bson-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium-WebDriver/Nareshit_Lectures/selenium project/report jar file/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium-WebDriver/Nareshit_Lectures/selenium project/report jar file/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium-WebDriver/Nareshit_Lectures/selenium project/report jar file/extentreports-3.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium-WebDriver/Nareshit_Lectures/selenium project/report jar file/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium-WebDriver/Nareshit_Lectures/selenium project/report jar file/gson-2.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium-WebDriver/Nareshit_Lectures/selenium project/report jar file/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium-WebDriver/Nareshit_Lectures/selenium project/report jar file/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium-WebDriver/Nareshit_Lectures/selenium project/report jar file/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium-WebDriver/Nareshit_Lectures/selenium project/report jar file/jsoup-1.9.2.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium-WebDriver/Nareshit_Lectures/selenium project/report jar file/mongodb-driver-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium-WebDriver/Nareshit_Lectures/selenium project/report jar file/mongodb-driver-core-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium-WebDriver/Nareshit_Lectures/browserdriver/webdrivermanager/commons-codec-1.13.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium-WebDriver/Nareshit_Lectures/browserdriver/webdrivermanager/commons-compress-1.20.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium-WebDriver/Nareshit_Lectures/browserdriver/webdrivermanager/commons-io-2.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium-WebDriver/Nareshit_Lectures/browserdriver/webdrivermanager/commons-lang3-3.11.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium-WebDriver/Nareshit_Lectures/browserdriver/webdrivermanager/gson-2.8.6.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium-WebDriver/Nareshit_Lectures/browserdriver/webdrivermanager/httpclient5-5.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium-WebDriver/Nareshit_Lectures/browserdriver/webdrivermanager/httpcore5-5.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium-WebDriver/Nareshit_Lectures/browserdriver/webdrivermanager/httpcore5-h2-5.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium-WebDriver/Nareshit_Lectures/browserdriver/webdrivermanager/jarchivelib-1.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium-WebDriver/Nareshit_Lectures/browserdriver/webdrivermanager/jsoup-1.13.1.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium-WebDriver/Nareshit_Lectures/browserdriver/webdrivermanager/slf4j-api-1.7.30.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium-WebDriver/Nareshit_Lectures/browserdriver/webdrivermanager/webdrivermanager-4.3.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
